@@ -1,2 +1,1 @@
-# OpSys
-Laboratory works in Polytech
+Pintos study. Lol. What am I doing here?
